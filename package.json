@@ -2,7 +2,7 @@
   "name": "fuzzy-workspace",
   "description": "Quickly find and focus any open item across the workspace",
   "repository": "https://github.com/asiloisad/pulsar-fuzzy-workspace",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "atom": ">=1.100.0 <2.0.0"
