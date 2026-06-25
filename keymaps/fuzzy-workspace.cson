@@ -1,0 +1,8 @@
+'atom-workspace':
+  'ctrl-alt-p': 'fuzzy-workspace:toggle'
+
+'.fuzzy-workspace atom-text-editor[mini]':
+  'enter': 'select-list:focus'
+  'alt-delete': 'select-list:close-item'
+  'alt-c': 'select-list:copy-path'
+  'alt-s': 'select-list:query-selection'
